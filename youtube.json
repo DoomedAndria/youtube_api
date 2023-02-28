@@ -8,7 +8,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJVdEnUyNNPVUQzeUAB0EFmP_cNCJWUX9qnBwAdesA=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/zPlsnWq5X50/hqdefault.jpg",
         "date_uploaded": "2023-02-25T15:00:02Z",
-        "views": "3582134"
+        "views": "3582134",
+        "categoryId": 2
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
         "channel_image": "https://yt3.ggpht.com/Js_Ip-lezgP0XmjUzTLsHPUN9HVBn1vMeYnx12ApUPVfSPSIBiZ2OEAMlXM86USsGv38PsCnfQ=s800-c-k-c0x00ffffff-no-nd-rj",
         "thumbnail": "https://i.ytimg.com/vi/jZGpkLElSu8/hqdefault.jpg",
         "date_uploaded": "2023-02-24T05:00:09Z",
-        "views": "75470334"
+        "views": "75470334",
+        "categoryId": 8
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJUaXkK6stZqsPQ3LIrWQSz9A_8gcR0SEhFKYMSE=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/0NXvJ2rLmbo/hqdefault.jpg",
         "date_uploaded": "2023-02-25T15:00:06Z",
-        "views": "3293327"
+        "views": "3293327",
+        "categoryId": 2
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJVPySekODWnN7jfbjtKwa2xY0zvjaKRYA-y3R8xRg=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/0fo8z8AYY8I/hqdefault.jpg",
         "date_uploaded": "2023-02-25T19:13:06Z",
-        "views": "1341759"
+        "views": "1341759",
+        "categoryId": 6
     },
     {
         "id": 5,
@@ -52,7 +56,8 @@
         "channel_image": "https://yt3.ggpht.com/3naPCRx2OyDJC3-T5OZMEscJqYxOKTN8TopYl19QGwM35rRqPSFbC6yovicQLeboIQGHCtuM=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/gWUj6wx0UzI/hqdefault.jpg",
         "date_uploaded": "2023-02-25T19:05:07Z",
-        "views": "1462646"
+        "views": "1462646",
+        "categoryId": 4
     },
     {
         "id": 6,
@@ -63,7 +68,8 @@
         "channel_image": "https://yt3.ggpht.com/kPl2HrVzPPo19pTI_s_dSKfzo0FOLacKVKyEPisLOkO1_rclooIAl0ug6sCIxbo8obH14Dtltx8=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/_vwSrfw85S4/hqdefault.jpg",
         "date_uploaded": "2023-02-25T20:05:05Z",
-        "views": "1007137"
+        "views": "1007137",
+        "categoryId": 5
     },
     {
         "id": 7,
@@ -74,7 +80,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJV_NVRiATotob8tGfWqJfjm1hKRuxiGQGmitwgLIQ=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/I8e92WRY8no/hqdefault.jpg",
         "date_uploaded": "2023-02-25T22:20:00Z",
-        "views": "592200"
+        "views": "592200",
+        "categoryId": 8
     },
     {
         "id": 8,
@@ -85,7 +92,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJUbMqqwILV3FBOR6tUeVBuiR2fLFSTxzWTnkzzaBA=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/jhh6z3Xi2wg/hqdefault.jpg",
         "date_uploaded": "2023-02-25T13:30:15Z",
-        "views": "843406"
+        "views": "843406",
+        "categoryId": 7
     },
     {
         "id": 9,
@@ -96,7 +104,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJW4F-eiWZQHUu55EP-JHKnsNE4Con73-JFH0TK4Gg=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/Z-rH3lk-bjo/hqdefault.jpg",
         "date_uploaded": "2023-02-25T16:00:07Z",
-        "views": "4221150"
+        "views": "4221150",
+        "categoryId": 4
     },
     {
         "id": 10,
@@ -107,7 +116,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJUgo1vfNdk-T2QRVkNGSknr0oFeLmmn-JIBgLg1fA=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/m8LBvGX2hCQ/hqdefault.jpg",
         "date_uploaded": "2023-02-24T22:00:17Z",
-        "views": "1445734"
+        "views": "1445734",
+        "categoryId": 8
     },
     {
         "id": 11,
@@ -118,7 +128,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJWVrCrz-4wETTa9KvUW5NnAalXYv0cjfVypTDNhlw=s800-c-k-c0x00ffffff-no-rj-mo",
         "thumbnail": "https://i.ytimg.com/vi/T8nbNQpRwNo/hqdefault.jpg",
         "date_uploaded": "2023-02-24T18:00:21Z",
-        "views": "2485221"
+        "views": "2485221",
+        "categoryId": 8
     },
     {
         "id": 12,
@@ -129,7 +140,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJXu7PXItQlmFbD_PNGujJsJz2vLvGT7jCK_tW7kQA=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/pp00dp60uMo/hqdefault.jpg",
         "date_uploaded": "2023-02-25T20:00:14Z",
-        "views": "768637"
+        "views": "768637",
+        "categoryId": 8
     },
     {
         "id": 13,
@@ -140,7 +152,8 @@
         "channel_image": "https://yt3.ggpht.com/jV0nsbgUPrRSp_O-aBtkSRSeiMyjlnrM1uMiNSHPQXLAwzWwThKBYSosZAUQuYvmgQStZWqCrA=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/LdtqNTbQkZ8/hqdefault.jpg",
         "date_uploaded": "2023-02-25T18:51:42Z",
-        "views": "286935"
+        "views": "286935",
+        "categoryId": 7
     },
     {
         "id": 14,
@@ -151,7 +164,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJXqElENjcLhjM8smltqpOJB1UQw_L9mXBtiqGeMfAs=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/B97Kxv7ji-o/hqdefault.jpg",
         "date_uploaded": "2023-02-26T02:49:11Z",
-        "views": "293815"
+        "views": "293815",
+        "categoryId": 2
     },
     {
         "id": 15,
@@ -162,7 +176,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJXnFyDsGrQ2a58NI-fgarwVwOBP_0RMZnJyD1Va5w=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/J8uKCCs44oY/hqdefault.jpg",
         "date_uploaded": "2023-02-25T01:00:10Z",
-        "views": "2499460"
+        "views": "2499460",
+        "categoryId": 4
     },
     {
         "id": 16,
@@ -173,18 +188,20 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJXlvo0Pg3g0rKlp7iFktGxGWyfi-hSmTNzhc4ZdVA=s800-c-k-c0x00ffffff-no-rj-mo",
         "thumbnail": "https://i.ytimg.com/vi/wObTive0mBM/hqdefault.jpg",
         "date_uploaded": "2023-02-24T17:00:41Z",
-        "views": "1236342"
+        "views": "1236342",
+        "categoryId": 7
     },
     {
         "id": 17,
         "video_id": "VIgnNZyxwDo",
         "url": "https://www.youtube.com/watch?v=VIgnNZyxwDo",
-        "name": "FURY THROWS FIRST PUNCH!! - Jake Paul vs. Tommy Fury \u2022 FULL WEIGH IN & FACE OFF | BT Sport Boxing",
+        "name": "FURY THROWS FIRST PUNCH!! - Jake Paul vs. Tommy Fury • FULL WEIGH IN & FACE OFF | BT Sport Boxing",
         "channel": "Seconds Out",
         "channel_image": "https://yt3.ggpht.com/5_yqlYRAecNX8lsrHG1ygkEai33Qs5-RsabnJEXogdZoPs9jxjCY3JlQ3E0-QNI87mGiH8O8vA=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/VIgnNZyxwDo/hqdefault.jpg",
         "date_uploaded": "2023-02-25T10:43:24Z",
-        "views": "367603"
+        "views": "367603",
+        "categoryId": 6
     },
     {
         "id": 18,
@@ -195,7 +212,8 @@
         "channel_image": "https://yt3.ggpht.com/UFnn85YIxQl-aGPipKAJEqiH56QK71bYDlcUZHya7Vh-3v85JmRoXZyyE-orZxuPB2c8oZxdKg=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/xh8-Q_fw6Nk/hqdefault.jpg",
         "date_uploaded": "2023-02-25T13:30:29Z",
-        "views": "435962"
+        "views": "435962",
+        "categoryId": 3
     },
     {
         "id": 19,
@@ -206,7 +224,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJWvMo93O5DKgJ_MO-QlLHqKmgEgDhD8T_doUzjO4A=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/mx_b7AFLwrY/hqdefault.jpg",
         "date_uploaded": "2023-02-24T20:35:24Z",
-        "views": "1494579"
+        "views": "1494579",
+        "categoryId": 5
     },
     {
         "id": 20,
@@ -217,7 +236,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJWvMo93O5DKgJ_MO-QlLHqKmgEgDhD8T_doUzjO4A=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/SwDpIiUPoHE/hqdefault.jpg",
         "date_uploaded": "2023-02-25T15:08:19Z",
-        "views": "580977"
+        "views": "580977",
+        "categoryId": 0
     },
     {
         "id": 21,
@@ -228,7 +248,8 @@
         "channel_image": "https://yt3.ggpht.com/OOGd46JU0V7uOCemLvJoTud9kouEm2Epds7lsmiOmptuw-69FuqP6NnymcGiPbKruk2Xe-sXlMk=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/tZ43aKWRH_A/hqdefault.jpg",
         "date_uploaded": "2023-02-25T21:02:09Z",
-        "views": "162481"
+        "views": "162481",
+        "categoryId": 7
     },
     {
         "id": 22,
@@ -239,7 +260,8 @@
         "channel_image": "https://yt3.ggpht.com/QiI-c4cFyRPD0qVwTQooC3dlgJqHA_t6CpEAv818om-mqL9bqNDL4L_qXQVXx_eY76D_7cLD=s800-c-k-c0x00ffffff-no-nd-rj",
         "thumbnail": "https://i.ytimg.com/vi/YQ-qToZUybM/hqdefault.jpg",
         "date_uploaded": "2023-02-24T05:00:18Z",
-        "views": "9402164"
+        "views": "9402164",
+        "categoryId": 1
     },
     {
         "id": 23,
@@ -250,7 +272,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJXXrRrTN67Gzsrxu0ZvR9-7oqmJ4Mpsr_9Bx1RB=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/ovIykchkW5I/hqdefault.jpg",
         "date_uploaded": "2023-02-25T10:34:08Z",
-        "views": "610471"
+        "views": "610471",
+        "categoryId": 3
     },
     {
         "id": 24,
@@ -261,7 +284,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJVzTwE8WJqZjw2_SwyywkTvkGvkTYCrJZURa0rC=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/uQjFDzqFfIc/hqdefault.jpg",
         "date_uploaded": "2023-02-25T20:00:16Z",
-        "views": "170030"
+        "views": "170030",
+        "categoryId": 0
     },
     {
         "id": 25,
@@ -272,7 +296,8 @@
         "channel_image": "https://yt3.ggpht.com/22WozhZtZ0Zl7w8tTLOoLwvUO5Xdks6fO82zUN7-Uz6CvnjDFUy19btx-lZqR9FJ8KC7KDay=s800-c-k-c0x00ffffff-no-nd-rj",
         "thumbnail": "https://i.ytimg.com/vi/bUjPPBxbQrQ/hqdefault.jpg",
         "date_uploaded": "2023-02-24T16:00:21Z",
-        "views": "799295"
+        "views": "799295",
+        "categoryId": 1
     },
     {
         "id": 26,
@@ -283,18 +308,20 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJXdOTRqehaJqeLGgZZyRjN5ZIJJojqYhIzkpH4cmQ=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/fkiCeI_UmyE/hqdefault.jpg",
         "date_uploaded": "2023-02-25T17:00:26Z",
-        "views": "256376"
+        "views": "256376",
+        "categoryId": 1
     },
     {
         "id": 27,
         "video_id": "N2kjPi7CG-U",
         "url": "https://www.youtube.com/watch?v=N2kjPi7CG-U",
-        "name": "Try Guys Ruin Disney Cakes w/ Pro Chefs \u2022 Phoning It In",
+        "name": "Try Guys Ruin Disney Cakes w/ Pro Chefs • Phoning It In",
         "channel": "The Try Guys",
         "channel_image": "https://yt3.ggpht.com/trGnuIqG1xb1VkiuBIPffd1DQa34wkyJ-6elLv15jjwLLeQkiYnupxyDfgHS4P5ToTMOLyexnQ=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/N2kjPi7CG-U/hqdefault.jpg",
         "date_uploaded": "2023-02-25T16:00:20Z",
-        "views": "682616"
+        "views": "682616",
+        "categoryId": 5
     },
     {
         "id": 28,
@@ -305,7 +332,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJWxHcQZ-K04B5eO0xeC9o9qpME_LKiKcEnV1t9f=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/KNWuFqubHG8/hqdefault.jpg",
         "date_uploaded": "2023-02-25T23:17:02Z",
-        "views": "262195"
+        "views": "262195",
+        "categoryId": 3
     },
     {
         "id": 29,
@@ -316,7 +344,8 @@
         "channel_image": "https://yt3.ggpht.com/spVQrqnY6GVjIAHdRNTjyc2xV6MB6-4t6N84L-0zjdygypFNGQ8X0PlSiA95mcnEX5X7mcpTTgU=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/seEOOSZTymE/hqdefault.jpg",
         "date_uploaded": "2023-02-24T23:30:08Z",
-        "views": "1070978"
+        "views": "1070978",
+        "categoryId": 4
     },
     {
         "id": 30,
@@ -327,18 +356,20 @@
         "channel_image": "https://yt3.ggpht.com/AiO15WuxEOHj2ADa3v9X9euz4MHEzCNZ7XY05JOQUSffoNT4hvWs-dhdZmbkmMlpp5RsnWcorg=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/hKcXzCHdkLo/hqdefault.jpg",
         "date_uploaded": "2023-02-24T17:34:39Z",
-        "views": "882947"
+        "views": "882947",
+        "categoryId": 3
     },
     {
         "id": 31,
         "video_id": "asC3SaVoT8M",
         "url": "https://www.youtube.com/watch?v=asC3SaVoT8M",
-        "name": "Chl\u00f6e, Chris Brown - How Does It Feel (Official Video)",
+        "name": "Chlöe, Chris Brown - How Does It Feel (Official Video)",
         "channel": "ChloeBaileyVEVO",
         "channel_image": "https://yt3.ggpht.com/U_V0_J3mKmDz6yoffWke1X_am88wWHPiTFszUkVZh3pTwobaDH_ygB9jVngF9UoKlhFgreXFKg=s800-c-k-c0x00ffffff-no-nd-rj",
         "thumbnail": "https://i.ytimg.com/vi/asC3SaVoT8M/hqdefault.jpg",
         "date_uploaded": "2023-02-24T05:00:06Z",
-        "views": "2239861"
+        "views": "2239861",
+        "categoryId": 5
     },
     {
         "id": 32,
@@ -349,7 +380,8 @@
         "channel_image": "https://yt3.ggpht.com/B7DgikhQ9ZwWvH9xy3Xfc8MjBQEUTWUQ55fWijyhZfeDwopX3w61OtMr5e98e82JDCYE6lCSVA=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/rKOnp2-XSmI/hqdefault.jpg",
         "date_uploaded": "2023-02-25T01:31:04Z",
-        "views": "932003"
+        "views": "932003",
+        "categoryId": 5
     },
     {
         "id": 33,
@@ -360,7 +392,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJWO_7WQf_taLSBg8HjVVfIIMic0hy4vZJ9ERfF1kw=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/oFErWcXJLdw/hqdefault.jpg",
         "date_uploaded": "2023-02-25T21:49:40Z",
-        "views": "232035"
+        "views": "232035",
+        "categoryId": 4
     },
     {
         "id": 34,
@@ -371,7 +404,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJXjVVBFogcsZ3eB4kzz4KjEC_ItCB2IX9yxVR9_IPM=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/O8yTVvkYyVI/hqdefault.jpg",
         "date_uploaded": "2023-02-24T17:00:03Z",
-        "views": "874034"
+        "views": "874034",
+        "categoryId": 0
     },
     {
         "id": 35,
@@ -382,7 +416,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJXrtLyekz6vqXdPDtjsoXApmxjaamNieau034-16Q=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/gd2lBMjV9to/hqdefault.jpg",
         "date_uploaded": "2023-02-25T01:00:16Z",
-        "views": "1080263"
+        "views": "1080263",
+        "categoryId": 1
     },
     {
         "id": 36,
@@ -393,7 +428,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJVQry-jGTSmuDB9hAkc1iFzJSLQmsIUQlK3F6EqvA=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/aFxjst5ELfw/hqdefault.jpg",
         "date_uploaded": "2023-02-25T14:00:02Z",
-        "views": "113970"
+        "views": "113970",
+        "categoryId": 0
     },
     {
         "id": 37,
@@ -404,7 +440,8 @@
         "channel_image": "https://yt3.ggpht.com/ig-lGNl4K0BqqE1VFXtTJkPFesWAUMqILL1dcbY_5IpH3ogIqTPN9ROw5QiOOImPDz1D43FTrA=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/VEPz_eT0cLk/hqdefault.jpg",
         "date_uploaded": "2023-02-25T00:30:15Z",
-        "views": "952090"
+        "views": "952090",
+        "categoryId": 0
     },
     {
         "id": 38,
@@ -415,7 +452,8 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJVjyykY7BPXSU9UFcS_0o7Cj8VSMXVSZQOVsRN6IQ=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/RZCrSFaZl4U/hqdefault.jpg",
         "date_uploaded": "2023-02-25T17:21:32Z",
-        "views": "238699"
+        "views": "238699",
+        "categoryId": 2
     },
     {
         "id": 39,
@@ -426,7 +464,8 @@
         "channel_image": "https://yt3.ggpht.com/vMew57n9mdCAhlBzGB-rN6RMs44F7eImeQIx6ELwx_8mrYRldLWsgr7sx9G1re5r86iKwQEzqug=s800-c-k-c0x00ffffff-no-nd-rj",
         "thumbnail": "https://i.ytimg.com/vi/lpJ5O5Mbee4/hqdefault.jpg",
         "date_uploaded": "2023-02-24T17:00:10Z",
-        "views": "1260060"
+        "views": "1260060",
+        "categoryId": 1
     },
     {
         "id": 40,
@@ -437,6 +476,7 @@
         "channel_image": "https://yt3.ggpht.com/ytc/AL5GRJWb1jYqF-4w6XLLrWG5AEmUNV5mxknuOYYqc96bUg=s800-c-k-c0x00ffffff-no-rj",
         "thumbnail": "https://i.ytimg.com/vi/GDpq6HZQBHI/hqdefault.jpg",
         "date_uploaded": "2023-02-25T12:33:35Z",
-        "views": "398183"
+        "views": "398183",
+        "categoryId": 2
     }
 ]
